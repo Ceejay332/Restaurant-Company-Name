@@ -1,27 +1,34 @@
-Restaurant Menu Webpage
+# Restaurant Menu Webpage
 
 This project is a simple, responsive HTML and CSS template for displaying a restaurant or company menu. It provides a clean, visually appealing layout with sections for different meal types, opening hours, and contact links. The template is fully customizable for your own brand, menu items, and styling.
 
 ## Live Preview
 Check out the live version of this project:[view live menu](https://ceejay332.github.io/Restaurant-Company-Name/)
 
-Features
+## Features
 
-• Responsive Layout: The menu is centered and scales nicely on different screen sizes.
+## • Responsive Layout: 
+The menu is centered and scales nicely on different screen sizes.
 
-• Menu Sections: Separate sections for breakfast, lunch, dinner, or other categories.
+## • Menu Sections: 
+Separate sections for breakfast, lunch, dinner, or other categories.
 
-• Item Display: Each menu item has a dish name and price.
+## • Item Display: 
+Each menu item has a dish name and price.
 
-• Images: Option to include images for each section.
+## • Images:
+Option to include images for each section.
 
-• Opening Hours: Simple section for business hours.
+## • Opening Hours:
+Simple section for business hours.
 
-• Contact Links: Direct links for WhatsApp, phone calls, and location.
+## • Contact Links: 
+Direct links for WhatsApp, phone calls, and location.
 
-• Custom Styling: Easy-to-edit CSS for colors, fonts, and layout.
+## • Custom Styling:
+Easy-to-edit CSS for colors, fonts, and layout.
 
-File Structure
+## File Structure
 
 project-folder/
 
@@ -39,7 +46,7 @@ project-folder/
 
 │   └─ cookshop.jpg
 
-Usage
+## Usage
 
 1. Clone or download the repository.
 
@@ -59,7 +66,7 @@ Usage
 
 5. Open index.html in a browser to view your menu.
 
-Styling Notes
+## Styling Notes
 
 • Background image is applied to the whole page.
 
@@ -71,7 +78,7 @@ Styling Notes
 
 • Footer contains contact links with hover effects.
 
-Contact Links
+## Contact Links
 
 • WhatsApp: Clickable link to send a message via WhatsApp.
 
@@ -79,7 +86,7 @@ Contact Links
 
 • Location: Link to a map or location page.
 
-Customization Tips
+## Customization Tips
 
 • Add more menu sections by duplicating <section> blocks.
 
