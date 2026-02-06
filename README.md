@@ -73,11 +73,11 @@ project-folder/
 
 ## Contact Links
 
-• WhatsApp: Clickable link to send a message via WhatsApp.
+• **WhatsApp**: Clickable link to send a message via WhatsApp.
 
-• Phone: Clickable link to call the restaurant.
+• **Phone**: Clickable link to call the restaurant.
 
-• Location: Link to a map or location page.
+• **Location**: Link to a map or location page.
 
 ## Customization Tips
 
