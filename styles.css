@@ -1,0 +1,100 @@
+body {
+  background-image: url(images/cookshop.jpg);
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+hr {
+    height: 2px;
+    background-color: rgb(237, 237, 99);
+    border: rgb(237, 237, 99);
+}
+
+.bottom-line {
+    margin-bottom: 25px;
+}
+
+h1 {
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+.established {
+    font-style: italic;
+}
+
+h1, h2, h3, p {
+    text-align: center;
+}
+
+#menu {
+    background-color: rgb(230, 112, 112);
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+
+img {
+    display: block;
+    width: 100px;
+    margin: auto;
+    border-radius: 5px;
+    margin-top: -25px;
+}
+
+h1, h2, h3 {
+    font-family: impact, serif;
+}
+
+.item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+.dishes {
+    text-align: left;
+    width:75%;
+}
+
+.price {
+    text-align: right;
+    width: 25%
+}
+
+/* FOOTER */
+
+footer {
+    font-size: 14px;
+}
+
+.footer.p {
+    margin-bottom: 5px;
+}
+
+a {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: rgb(237, 237, 99);
+}
+
+a:active {
+    color: rgb(237, 237, 99);
+}
