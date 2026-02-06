@@ -3,7 +3,7 @@
 This project is a simple, responsive HTML and CSS template for displaying a restaurant or company menu. It provides a clean, visually appealing layout with sections for different meal types, opening hours, and contact links. The template is fully customizable for your own brand, menu items, and styling.
 
 ## Live Preview
-Check out the live version of this project:[view live menu](https://ceejay332.github.io/Restaurant-Company-Name/)
+Check out the live version of this project: [view live menu](https://ceejay332.github.io/Restaurant-Company-Name/)
 
 ## Features
 
