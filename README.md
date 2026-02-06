@@ -7,26 +7,19 @@ Check out the live version of this project:[view live menu](https://ceejay332.gi
 
 ## Features
 
-## • Responsive Layout: 
-The menu is centered and scales nicely on different screen sizes.
+• **Responsive Layout**: The menu is centered and scales nicely on different screen sizes.
 
-## • Menu Sections: 
-Separate sections for breakfast, lunch, dinner, or other categories.
+• **Menu Sections**: Separate sections for breakfast, lunch, dinner, or other categories.
 
-## • Item Display: 
-Each menu item has a dish name and price.
+• **Item Display**: Each menu item has a dish name and price.
 
-## • Images:
-Option to include images for each section.
+• **Images**: Option to include images for each section.
 
-## • Opening Hours:
-Simple section for business hours.
+• **Opening Hours**: Simple section for business hours.
 
-## • Contact Links: 
-Direct links for WhatsApp, phone calls, and location.
+• **Contact Links**: Direct links for WhatsApp, phone calls, and location.
 
-## • Custom Styling:
-Easy-to-edit CSS for colors, fonts, and layout.
+• **Custom Styling**: Easy-to-edit CSS for colors, fonts, and layout.
 
 ## File Structure
 
